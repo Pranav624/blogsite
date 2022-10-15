@@ -22,7 +22,7 @@ const Navbar = () => {
     return <AppBar color='default' position='sticky' elevation={2}>
         <StyledToolbar>
             <Box flex={{ xs: 25, md: 1 }}>
-                <Typography variant='h4' color={'Blue'} sx={{ fontFamily: 'Caveat, cursive' }}>
+                <Typography variant='h4' color={'#8A4FFF'} sx={{ fontFamily: 'Comfortaa, cursive' }}>
                     Pranav Gonepalli
                 </Typography>
             </Box>
